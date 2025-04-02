@@ -1,0 +1,19 @@
+{
+  "name": "Levector",
+  "short_name": "Levector",
+  "icons": [{
+    "src": "fav.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  },
+  {
+    "src": "maskable_icon.png",
+    "sizes": "731x731",
+    "type": "image/png",
+    "purpose": "any maskable"
+  }],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#212322",
+  "theme_color": "#212322"
+}
