@@ -5,7 +5,6 @@
                 <h3>CONTACT ALIBABA</h3>
                 <div class="phone">
                     <p>+33 7 59 79 45 21</p>
-                    <p>+971 52 203 1683</p>
                     <p>+93799 799 113</p>
                 </div>
             </div>
@@ -49,8 +48,8 @@
                             rel="noopener"><img
                                 src="https://d33wubrfki0l68.cloudfront.net/733639a10c3d03fe417983ee093b4c781037399e/9d39b/img/social-11.svg"
                                 alt="linkedin"></a>
-                        <a href="https://twitter.com/alibabafrutan" target="_blank" rel="noopener"><img
-                                style="height:25px;width:25px" src="./img/twitter.png" alt="Twitter"></a>
+                        <!-- <a href="https://twitter.com/alibabafrutan" target="_blank" rel="noopener"><img
+                                style="height:25px;width:25px" src="./img/twitter.png" alt="Twitter"></a> -->
                     </div>
                 </div>
             </div>
