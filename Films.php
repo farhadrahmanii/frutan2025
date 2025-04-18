@@ -72,24 +72,31 @@
             <hr>
             <br>
             <div class="columns">
+
                 <div class="column">
                     <div class="perk-cont">
-                        <img src="./img/films/film1.jpg" style="width: 100%; height: auto;" alt="">
+                        <img src="./img/films/redcover.jpg" style="width: 100%; height: auto;" alt="">
+                    </div>
+                </div>
+
+                <div class="column">
+                    <div class="perk-cont">
+                        <img src="./img/films/darkfuture(2).jpg" style="width: 100%; height: auto;" alt="">
                     </div>
                 </div>
                 <div class="column">
                     <div class="perk-cont">
-                        <img src="./img/films/newspaper.jpg" style="width: 100%; height: auto;" alt="">
+                        <img src="./img/films/film2.jpg" style="width: 100%; height: auto;" alt="">
                     </div>
                 </div>
                 <div class="column">
                     <div class="perk-cont">
-                        <img src="./img/films/newspaper1.jpg" style="width: 100%; height: auto;" alt="">
+                        <img src="./img/films/brochure.jpg" style="width: 100%; height: auto;" alt="">
                     </div>
                 </div>
                 <div class="column">
                     <div class="perk-cont">
-                        <img src="./img/films/newspaper1.jpg" style="width: 100%; height: auto;" alt="">
+                        <img src="./img/films/listBrochure.jpg" style="width: 100%; height: auto;" alt="">
                     </div>
                 </div>
             </div>

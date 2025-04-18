@@ -139,9 +139,9 @@
                         <div class="sub-options"><a href="TV.php">
                                 <p>TV</p>
                             </a>
-                            <!-- <a href="Newspaper.php">
+                            <a href="Newspaper.php">
                                 <p>NEWSPAPER</p>
-                            </a> -->
+                            </a>
                         </div>
                     </div>
                     <a class="menu-li" href="LatestNews.php">

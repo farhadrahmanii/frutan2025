@@ -1,34 +1,36 @@
 <?php require_once './header.php'; ?>
 <div data-scroll-container="" data-scroll-section-id="section0" data-scroll-section-inview=""
     style="transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); opacity: 1; pointer-events: all;">
+    <div class="txt-cont" style="padding-top: 100px; text-align: center; width: 100%;">
+        <a href="/img/about/portfolio.pdf" download class="download-button">
+            Download Portfolio
+        </a>
+
+        <style>
+            .download-button {
+                display: inline-block;
+                padding: 10px 20px;
+                background-color: rgb(194, 175, 10);
+                color: white;
+                text-decoration: none;
+                border-radius: 5px;
+                transition: background-color 0.3s;
+                margin-bottom: 50px;
+            }
+
+            .download-button:hover {
+                background-color: rgb(155, 143, 33);
+            }
+        </style>
+        <li class="splide__slide" id="splide01-slide01" aria-hidden="true" tabindex="-1"
+            style="width: 100%; transition: opacity 400ms cubic-bezier(0.42, 0.65, 0.27, 0.99) 0s; display: flex; justify-content: center;">
+            <img src="./img/about/about.jpg" style="width: 100%; height: auto; object-fit: cover;" alt="">
+        </li>
+    </div>
     <div data-controller="quienes-somos">
-        <div class="txt-cont">
-            <h2>ALIBABA FRUTAN</h2>
-            <p style="text-align: justify; text-justify: inter-word;">Graduated from Kabul University in Media &
-                Arts, Kabul, Afghanistan,
-                like any other young man growing
-                up in war torn Afghanistan, Alibaba Frutan had his own challenges and fulfillment. From an early age
-                he had an irresistible pull towards the world of visual media production and the journey wasn’t
-                easy. From 2007 he started his jaunt and had the opportunity to produce various categorized films
-                for different organizations which included documentaries, short films, and television commercials.
-                Alibaba Frutan’s vision as a visual media professional is to make audiovisual documentation on the
-                subject of girls’ education. He thinks it is imperative that an educated girl can educate an entire
-                generation. Born in the city of Wardak in Afghanistan, he had witnessed in close quarters the total
-                lack of proper legislation on girl child education. The second come back of the Taliban has
-                therefore raised serious concerns about the future of education, especially for girls. As per the
-                report of UNICEF, an estimated 3.7 million children are out-of-school in Afghanistan – 60% of them
-                are girls. For the last three years, he has been following the unparalleled work of WEL and its
-                immense contribution towards women empowerment especially for the country of Afghanistan. Alibaba
-                has
-                made a short feature film; titled The Dark Future. The film is based on a real-life story in a very
-                challenging situation. He has dedicated the said film to WEL to create awareness among the citizens
-                of Australia and to raise funds for plights of Afghan women. In his 15 years journey in the realm of
-                media production, he can contribute his expertise and skills as the media ambassador for WEL. Under
-                the capable leadership of Mrs. Rita Anwari, Founder and President of WEL, he is ready to associate
-                himself towards offering his expertise..</p>
-            <div class="img-ani"><img src="./3.svg" alt="Levector Ideas in Motion"
-                    style="translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"></div>
-        </div>
+        <!-- <div class="img-ani" style="align-items: center;"><img src="./3.svg" alt="Alibaba Frutan" style="width:300px;">
+    </div> -->
+
         <div class="banner-cont">
             <div class="splide splide--fade splide--ltr splide--draggable is-active" id="splide01"
                 style="visibility: visible;">

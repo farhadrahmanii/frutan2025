@@ -39,7 +39,7 @@
                 </div>
             </div>
         </div>
-        <div class="category-filter">
+        <!-- <div class="category-filter">
             <div class="cat-lg">
                 <p class="blog-cat active" data-cat="">TODAY</p>
                 <p class="blog-cat" data-cat="Marketing y publicidad">MARKETING PUBLISHED</p>
@@ -47,12 +47,11 @@
                 <p class="blog-cat" data-cat="Film">FILMS</p>
                 <p class="blog-cat" data-cat="Tras cámaras">ANIMATION</p>
             </div>
-        </div>
+        </div> -->
         <div class="post-cont">
             <div class="columns car-cont" style="position: relative; height:auto;">
                 <?php
                 $Feach = showAllPost('0,20');
-
                 foreach ($Feach as $result) { ?>
                     <div class="column">
                         <div class="post-card">
@@ -88,7 +87,49 @@
             </div>
         </div>
     </div>
+    <div data-controller="spots-publicitarios">
+        <div class="txt-cont">
+            <div class="head-txt">
+                <h2>
+                    News!</h2>
+            </div>
+            <hr>
+            <br>
+            <div class="columns">
+                <div class="column">
+                    <div class="perk-cont">
+                        <img src="./img/news/first.jpg" style="width: 100%; height: auto;" alt="">
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="perk-cont">
+                        <img src="./img/news/second.jpg" style="width: 100%; height: auto;" alt="">
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="perk-cont">
+                        <img src="./img/news/third.jpg" style="width: 100%; height: auto;" alt="">
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="perk-cont">
+                        <img src="./img/news/fourth.jpg" style="width: 100%; height: auto;" alt="">
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="perk-cont">
+                        <img src="./img/news/news1.jpg" style="width: 100%; height: auto;" alt="">
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="perk-cont">
+                        <img src="./img/news/news.jpg" style="width: 100%; height: auto;" alt="">
+                    </div>
+                </div>
 
+            </div>
+        </div>
+    </div>
     <br>
     <br>
     <br>

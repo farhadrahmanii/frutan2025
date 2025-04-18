@@ -7,31 +7,12 @@
                 <div class="column">
                     <div class="txt-cont">
                         <h2 style="color:#fbb03b;">ALIBABA FRUTAN</h2>
-                        <p style="text-align: justify; text-justify: inter-word;">Graduated from Kabul University in
-                            Media &amp;
-                            Arts, Kabul, Afghanistan,
-                            like any other young man growing
-                            up in war torn Afghanistan, Alibaba Frutan had his own challenges and fulfillment. From an
-                            early age
-                            he had an irresistible pull towards the world of visual media production and the journey
-                            wasn’t
-                            easy. From 2007 he started his jaunt and had the opportunity to produce various categorized
-                            films
-                            for different organizations which included documentaries, short films, and television
-                            commercials.
-                            Alibaba Frutan’s vision as a visual media professional is to make audiovisual documentation
-                            on the
-                            subject of girls’ education. He thinks it is imperative that an educated girl can educate an
-                            entire
-                            generation. Born in the city of Wardak in Afghanistan, he had witnessed in close quarters
-                            the total
-                            lack of proper legislation on girl child education. The second come back of the Taliban has
-                            therefore raised serious concerns about the future of education, especially for girls. As
-                            per the
-                            report of UNICEF, an estimated 3.7 million children are out-of-school in Afghanistan – 60%
-                            of them
-                            are girls.</p>
-                        <div class="img-ani"><img src="./3.svg" alt="Levector Ideas in Motion"
+                        <p style="text-align: justify; text-justify: inter-word;">
+                            Contact Regarding speaking engagements, press, or other inquiries, you can contact alibaba
+                            frutan using the form below. You also may reach him at <a
+                                href="mailto:info@alibabafrutan.com">info@alibabafrutan.com</a>
+                        </p>
+                        <div class="img-ani"><img src="./3.svg" alt="Alibaba Frutan"
                                 style="translate: none; rotate: none; scale: none; transform: translate(0px, 0px);">
                         </div>
                     </div>
@@ -76,6 +57,23 @@
                         <button class="button" name="submit" type="submit">SEND</button>
                     </form>
                 </div>
+            </div>
+        </div>
+        <div data-controller="spots-publicitarios">
+            <div class="txt-cont">
+                <div class="head-txt">
+                    <h2>
+                        Accolades & Links!</h2>
+                </div>
+                <hr>
+                <br>
+
+                <div class="column">
+                    <div class="perk-cont">
+                        <img src="./img/newtesting.jpg" style="width: 100%; height: auto;" alt="">
+                    </div>
+                </div>
+
             </div>
         </div>
         <script>
