@@ -10,12 +10,12 @@
             .download-button {
                 display: inline-block;
                 padding: 10px 20px;
-                background-color: rgb(194, 175, 10);
+                background-color: rgb(214, 168, 16);
                 color: white;
                 text-decoration: none;
                 border-radius: 5px;
                 transition: background-color 0.3s;
-                margin-bottom: 50px;
+                margin-bottom: 40px;
             }
 
             .download-button:hover {
