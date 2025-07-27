@@ -1,10 +1,10 @@
 <?php
 function conn()
 {
-    $user = 'Farhad';
-    $db = 'frutan';
+   $user = 'u188652668_frutan';
+    $db = 'u188652668_frutan';
     $host = 'localhost';
-    $password = 'Farhad@1161997';
+    $password = 'Wardak@1161997';
     $conn = new PDO("mysql:host=$host;dbname=$db", $user, $password);
     if ($conn) {
     } else {
@@ -19,7 +19,7 @@ class db
     private $user;
     private $pass;
     private $tbl;
-    public function __construct($dbname = 'frutan', $user = 'Farhad', $pass = 'Farhad@1161997')
+    public function __construct($dbname = 'u188652668_frutan', $user = 'u188652668_frutan', $pass = 'Wardak@1161997')
     {
         $this->dbname = $dbname;
         $this->user = $user;
