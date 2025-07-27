@@ -30,10 +30,10 @@
 
 function conn()
 {
-    $user = 'Farhad';
-    $db = 'frutan';
+    $user = 'u188652668_frutan';
+    $db = 'u188652668_frutan';
     $host = 'localhost';
-    $password = 'Farhad@1161997';
+    $password = 'Wardak@1161997';
     $conn = new PDO("mysql:host=$host;dbname=$db", $user, $password);
     if ($conn) {
     } else {
